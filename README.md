@@ -57,5 +57,13 @@ The FedDC method is implemented in ```utils_methods_FMLDKD.py```. The baseline m
 ### Citation
 
 ```
-
+@article{song2024bidirectional,
+  title={Bidirectional Decoupled Distillation for Heterogeneous Federated Learning},
+  author={Song, Wenshuai and Yan, Mengwei and Li, Xinze and Han, Longfei},
+  journal={Entropy},
+  volume={26},
+  number={9},
+  pages={762},
+  year={2024}
+}
 ```
